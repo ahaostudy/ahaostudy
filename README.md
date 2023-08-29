@@ -9,12 +9,9 @@
 </div>
 
 <div align="center">
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahaostudy" width="52%" />
-	<img src="https://stats.justsong.cn/api/leetcode?username=ahaostudy&cn=true&theme=light">
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahaostudy" width="52%">
+	<img src="https://stats.justsong.cn/api/leetcode?username=ahaostudy&cn=true&theme=light" width="37%" align="right">
 </div>
-
-## Visitor count
-<p align="center"><img src="https://profile-counter.glitch.me/ahaostudy/count.svg" /></p>
 
 ## Starve the little snake game 🥺
 <div align="center">
@@ -24,3 +21,5 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ahaostudy/ahaostudy/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
+
+<h3>Visitor count: <img align="right" src="https://profile-counter.glitch.me/ahaostudy/count.svg" /></h3>

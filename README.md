@@ -4,8 +4,8 @@
 
 ## Stats  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahaostudy&count_private=true&show_icons=true&hide_border=true"  width="60%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahaostudy&langs_count=10&exclude_repo=timerring.github.io&count_private=true&layout=compact&hide_border=true" width="35%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahaostudy&count_private=true&show_icons=true&hide_border=true"  width="54%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahaostudy&langs_count=10&exclude_repo=timerring.github.io&count_private=true&layout=compact&hide_border=true" width="36%" />
 </div>
 
 <div align="center">

@@ -1,5 +1,5 @@
 <a href="https://github.com/pulls?q=author%3Aahaostudy">
-    <img alt="Shows Ahao's GitHub Stats." align="right" src="https://github-stats.liuli.lol/api?username=ahaostudy&theme=react-dark&show_icons=true&include_all_commits=true&count_private=true">
+    <img alt="Shows Ahao's GitHub Stats." align="right" src="https://github-stats.liuli.lol/api?username=ahaostudy&theme=react-dark&show_icons=true&include_all_commits=true&count_private=true&hide_border=true">
 </a>
 
 ### Hi there, 👋, I'm Ahao.
